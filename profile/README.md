@@ -4,7 +4,7 @@ Woofslides is a presentation system where each slide is an HTML page (styled wit
 
 This project is still a concept and here you can see the concept updated as often as I make updates.
 
-![0](Woofslides.0.png)
-![1](Woofslides.1.png)
-![2](Woofslides.2.png)
-![3](Woofslides.3.png)
+![0](https://github.com/woofslides/.github/blob/main/profile/Woofslides.0.png?raw=true)
+![1](https://github.com/woofslides/.github/blob/main/profile/Woofslides.1.png?raw=true)
+![2](https://github.com/woofslides/.github/blob/main/profile/Woofslides.2.png?raw=true)
+![3](https://github.com/woofslides/.github/blob/main/profile/Woofslides.3.png?raw=true)
