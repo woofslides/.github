@@ -1,4 +1,4 @@
-![logo](https://github.com/woofslides/.github/blob/main/profile/logo.png?raw=true)
+<img src="https://github.com/woofslides/.github/blob/main/profile/logo.png?raw=true" width="300" height="300">
 
 # Woofslides
 
