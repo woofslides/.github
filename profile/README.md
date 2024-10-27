@@ -1,3 +1,5 @@
+![logo](https://github.com/woofslides/.github/blob/main/profile/logo.png?raw=true)
+
 # Woofslides
 
 Woofslides is a presentation system where each slide is an HTML page (styled with tailwindcss), and the viewer can be controlled from any device on the local network - allowing you to control the presentation on your phone.
