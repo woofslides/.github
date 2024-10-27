@@ -1,4 +1,4 @@
-<img src="https://github.com/woofslides/.github/blob/main/profile/logo.png?raw=true" width="300" height="300">
+<img src="https://github.com/woofslides/.github/blob/main/profile/logo.png?raw=true" width="100" height="100">
 
 # Woofslides
 
